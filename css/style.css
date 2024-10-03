@@ -61,3 +61,23 @@ h2{
     text-align: center;
     font-weight: bold;
 }
+.image{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    height: 250px;
+}
+.butt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.my_button{
+    background-color: black;
+    color: coral;
+    font-weight: bold;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 7px 20px;
+    margin-bottom: 20px;
+}
